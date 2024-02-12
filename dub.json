@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"phebert5009"
+	],
+	"copyright": "Copyright © 2024, phebert5009",
+	"description": "A really stupid sorting algorithm",
+	"license": "proprietary",
+	"name": "primesort"
+}

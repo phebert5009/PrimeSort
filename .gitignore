@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/primesort
+primesort.so
+primesort.dylib
+primesort.dll
+primesort.a
+primesort.lib
+primesort-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
